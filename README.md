@@ -40,3 +40,30 @@ CalcNote is a beautifully designed Flutter calculator app that goes beyond basic
 
 ## 📂 Folder Structure (Simplified)
 
+lib/
+├── models/
+│ └── calculation.dart # Hive model for saved calculations
+├── providers/
+│ ├── calculation_provider.dart
+│ └── theme_provider.dart
+├── screens/
+│ ├── calculator_screen.dart
+│ └── history_screen.dart
+├── widgets/
+│ └── calculator_button.dart
+└── main.dart
+
+---
+
+## 📦 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/CalcNote.git
+
+## 📥 Download
+
+[Download APK from Google Drive](https://drive.google.com/your-sharable-link)
+
+
+
