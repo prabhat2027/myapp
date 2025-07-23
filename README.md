@@ -40,6 +40,7 @@ CalcNote is a beautifully designed Flutter calculator app that goes beyond basic
 
 ## 📂 Folder Structure (Simplified)
 
+```
 lib/
 ├── models/
 │ └── calculation.dart # Hive model for saved calculations
@@ -52,7 +53,7 @@ lib/
 ├── widgets/
 │ └── calculator_button.dart
 └── main.dart
-
+```
 ---
 
 ## 📦 Installation
