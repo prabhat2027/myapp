@@ -64,7 +64,7 @@ lib/
 
 ## 📥 Download
 
-[Download APK from Google Drive](https://drive.google.com/your-sharable-link)
+[Download APK from Google Drive](https://drive.google.com/drive/folders/1lP-dRRa0zmcUhYCLtn72BnOT-ztyE-1X?usp=sharing)
 
 
 
